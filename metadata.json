@@ -1,0 +1,6 @@
+{
+  "name": "Generator RPP Deep Learning KBC",
+  "description": "Generator Modul Ajar dan RPP Bahasa Arab dengan Pendekatan Deep Learning dan Kurikulum Berbasis Cinta (KBC)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
